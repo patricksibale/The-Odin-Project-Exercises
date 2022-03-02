@@ -1,7 +1,11 @@
 div{
     color: white;
     background-color: red;
-    text-align: center;
     font-size: 32px;
     text-decoration: solid;
+    padding: 40px;
+    border: 20px solid blue;
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
 }
